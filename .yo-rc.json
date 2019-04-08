@@ -1,0 +1,17 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "rough",
+    "username": "AasthaSolanki",
+    "userEmail": "aastha.solanki2015@vit.ac.in",
+    "stack": "server",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "AasthaSolanki",
+    "client": "",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "babel",
+    "secure": false,
+    "testsSeparated": true,
+    "boilerplate": true
+  }
+}
